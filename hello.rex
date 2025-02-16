@@ -1,2 +1,2 @@
 /* Hello World in REXX */
-say "Hello, I'm Kshitija Deshmukh!"
+say "Hello, I'm Kshitija Deshmukh from BMC!"
