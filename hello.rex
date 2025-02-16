@@ -1,2 +1,2 @@
 /* Hello World in REXX */
-say "Hello, World!"
+say "Hello, World from mainframe!"
